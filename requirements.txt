@@ -1,0 +1,58 @@
+FINAL PAPER STRUCTURE
+
+Title:
+Adaptive Multi-Modal Dynamic Principal Component Analysis Framework for Real-Time Anomaly Detection in High-Dimensional IoT Systems Using Self-Supervised Machine Learning
+
+🧩 1. Abstract
+Problem statement (high-dimensional IoT anomaly detection challenge)
+Proposed solution (Adaptive Dynamic PCA + Self-supervised ML)
+Key innovation (multi-modal + streaming + adaptive PCA)
+Results (accuracy, latency improvement)
+Contribution (real-time + scalable + explainable)
+🔑 2. Keywords
+Dynamic PCA
+Multi-modal learning
+IoT anomaly detection
+Self-supervised learning
+High-dimensional data
+Real-time analytics
+🌍 3. Introduction
+3.1 Background
+Growth of IoT + smart systems
+Explosion of high-dimensional data
+3.2 Problem Statement
+Curse of dimensionality
+Static PCA limitations
+Lack of real-time adaptability
+3.3 Research Gap
+No unified framework combining:
+Dynamic PCA
+Multi-modal fusion
+Self-supervised learning
+3.4 Objectives
+Develop adaptive PCA model
+Enable real-time anomaly detection
+Improve scalability and accuracy
+3.5 Contributions
+Novel dynamic PCA algorithm
+Multi-modal feature fusion
+Self-supervised anomaly detection
+Explainable AI via PCA components
+📚 4. Literature Review
+4.1 PCA in Machine Learning
+Traditional PCA
+Limitations (static, offline)
+4.2 Dynamic / Incremental PCA
+Existing methods
+Gaps in adaptability
+4.3 Anomaly Detection in IoT
+Supervised vs unsupervised
+Challenges in real-time systems
+4.4 Multi-Modal Learning
+Sensor + image + time-series fusion
+4.5 Self-Supervised Learning
+Contrastive learning
+Representation learning
+4.6 Research Gap Summary
+Lack of integrated framework combining all above
+time series analysis ARIMA DATASET given..scenario with dataset for shiny 20m ..basics r calc avg how handle df and filtering..visualization dataset given ..scatter cahrts graphs ...mapping chroro,catro hec=x,dot,2 parameters ..time series 1 dataset analysis ,,identify pattern..dataset given and make prediction	..mov avg..shiny app based on kpi(identify)(fundamentals server ui)..either inbuilt or upload as .csv..maps general prgm without sf
